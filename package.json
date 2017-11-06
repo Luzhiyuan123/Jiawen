@@ -1,0 +1,27 @@
+{
+  "name": "jw",
+  "version": "1.0.0",
+  "description": "'jiawen is a interiorDesign'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "grunt eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luzhiyuan123/Jiawen.git"
+  },
+  "author": "lzy ltx tsd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luzhiyuan123/Jiawen/issues"
+  },
+  "homepage": "https://github.com/Luzhiyuan123/Jiawen#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^20.1.0",
+    "husky": "^0.14.3",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
